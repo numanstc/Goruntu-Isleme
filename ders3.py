@@ -42,7 +42,6 @@ img = mpimg.imread('1.jpg')
 
 import os
 cwd = os.getcwd()
-cwd
 
 
 plt.imshow(img)
